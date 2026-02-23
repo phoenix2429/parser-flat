@@ -1,4 +1,4 @@
-# AFLL Mini Project – Syntax Parser
+#  Mini Project – Syntax Parser
 
 ## Description
 This project implements a simple syntax parser that validates:
